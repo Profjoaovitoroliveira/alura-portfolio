@@ -28,7 +28,7 @@
     </div>
 </header>
 <main class="container mt-5">
-    <h2>Meus projetos em programação</h2></p>
+    <h2>Meus Projetos em Programação</h2></p>
                 
  <div>
             <i class="bi bi-github"></i>
@@ -54,7 +54,6 @@
         </div>
         <p class="my-5 text-center">© Copyright 2025. Produzido por João</p>
     </footer>
-
 
 
 
