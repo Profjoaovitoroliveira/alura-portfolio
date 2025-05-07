@@ -10,9 +10,11 @@
 
 </header>
 <main class="container mt-5">
-    <p class="lead">Meu nome é João</p>
+    <p class="lead">
+    <p class="my-5 text-center">Olá, meu nome é João!</p>
+    </footer>
     <h1>Eu ensino Física e Matemática</h1>
-    <p>Sou Tecnólogo em Fabricação mecânica, cursando licenciatura em matemática. Ensino matemática e física para estudantes do ensino fundamental e médio.
+    <p>Sou Tecnólogo em Fabricação mecânica, cursando Licenciatura em Matemática. Ensino Matemática e Física para estudantes do Ensino Fundamental e Médio.
     
 </header>
 <main class="container mt-5">
@@ -52,6 +54,7 @@
         </div>
         <p class="my-5 text-center">© Copyright 2025. Produzido por João</p>
     </footer>
+
 
 
 
